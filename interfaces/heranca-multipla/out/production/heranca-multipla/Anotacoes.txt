@@ -1,0 +1,4 @@
+Herança multipla pode gerar problema diamente: uma ambiguidade causada pela existência do mesmo método em mais de
+uma superclasse.
+
+Herança multipla não é permitida na maioria das linguagens
